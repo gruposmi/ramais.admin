@@ -1,0 +1,746 @@
+[
+    {   
+        "ramal": "3006", 
+        "nome": "Acácia", 
+        "setor": "Obras", 
+        "maquina": "OBRAS1" 
+    },
+    {   
+        "ramal": "3152", 
+        "nome": "Adenilson Boeira", 
+        "setor": "Engenharia", 
+        "maquina": "ENG01" 
+    },
+    {   
+        "ramal": "3042", 
+        "nome": "Adriana", 
+        "setor": "Fiscal", 
+        "maquina": "FISCAL1" 
+    },
+    {   
+        "ramal": "3018", 
+        "nome": "Agatha", 
+        "setor": "RH / Admissão", 
+        "maquina": "SINASC007" 
+    },
+    {   
+        "ramal": "3078", 
+        "nome": "Agatha", 
+        "setor": "Obras", 
+        "maquina": "SINASC021" 
+    },
+    {   
+        "ramal": "3082", 
+        "nome": "Alessandra", 
+        "setor": "Fábrica de Tintas", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3030", 
+        "nome": "Aline", 
+        "setor": "Dep. Transito", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3016", 
+        "nome": "Amildton", 
+        "setor": "Diagramação", 
+        "maquina": "FABPLACAS1" 
+    },
+    {   
+        "ramal": "3021", 
+        "nome": "Ana", 
+        "setor": "Fábrica de Placas", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3034", 
+        "nome": "Engª Andrea", 
+        "setor": "Licitação", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3037", 
+        "nome": "Andreia", 
+        "setor": "Gerência GP", 
+        "maquina": "NOTEGP01" 
+    },
+    {   
+        "ramal": "3047", 
+        "nome": "Aquelim", 
+        "setor": "Obras", 
+        "maquina": "OBRAS3" 
+    },
+    {   
+        "ramal": "3032", 
+        "nome": "Aryelle", 
+        "setor": "Fiscal", 
+        "maquina": "FISCAL3" 
+    },                
+    {   
+        "ramal": "3070", 
+        "nome": "Barbara", 
+        "setor": "Logística", 
+        "maquina": "LOGISTICA3" 
+    },
+    {   
+        "ramal": "3017", 
+        "nome": "Beatriz", 
+        "setor": "Coordenação RH", 
+        "maquina": "GSMISC006" 
+    },
+    {   
+        "ramal": "3033", 
+        "nome": "Bruna Midon", 
+        "setor": "RH / Ponto e Atestados", 
+        "maquina": "RH8" 
+    },         
+    {   
+        "ramal": "3039", 
+        "nome": "Carlos Dudar", 
+        "setor": "Tecnologia da Informação", 
+        "maquina": "GSMISC003" 
+    },
+    {   
+        "ramal": "3049", 
+        "nome": "Ceará", 
+        "setor": "Fábrica de Serigrafia", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3001", 
+        "nome": "Chico", 
+        "setor": "Diretor", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3012", 
+        "nome": "Claudia", 
+        "setor": "Laboratório Tintas", 
+        "maquina": "SINASC009" 
+    },
+    {   
+        "ramal": "3020", 
+        "nome": "Copa", 
+        "setor": "Copa", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3057", 
+        "nome": "Daiane", 
+        "setor": "Comercial", 
+        "maquina": "COMERCIAL2" 
+    },
+    {   
+        "ramal": "3028", 
+        "nome": "Dayana", 
+        "setor": "Manutenção", 
+        "maquina": "MANUTENCAO3" 
+    },
+    {   
+        "ramal": "3044", 
+        "nome": "Debora", 
+        "setor": "RH / Ponto e Atestados", 
+        "maquina": "GSMISC025" 
+    },
+    {   
+        "ramal": "3018", 
+        "nome": "Deise", 
+        "setor": "RH / Admissão", 
+        "maquina": "SINASC023" 
+    },
+    {   
+        "ramal": "3081", 
+        "nome": "Deivid", 
+        "setor": "Controle", 
+        "maquina": "SINASC015" 
+    },
+    {   
+        "ramal": "3004", 
+        "nome": "Denis", 
+        "setor": "Marketing", 
+        "maquina": "GSMISC002" 
+    },
+    {   
+        "ramal": "3045", 
+        "nome": "Departamento Transito", 
+        "setor": "Parking Guarda", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3095", 
+        "nome": "Derli", 
+        "setor": "Financeiro", 
+        "maquina": "FINANCEIRO5" 
+    },
+    {   
+        "ramal": "3015", 
+        "nome": "Donizete", 
+        "setor": "Metalúrgica", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3150", 
+        "nome": "Douglas", 
+        "setor": "RH", 
+        "maquina": "RH5" 
+    },
+    {   
+        "ramal": "3058", 
+        "nome": "Dulce", 
+        "setor": "Recepção Externa", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3019", 
+        "nome": "Edira", 
+        "setor": "Financeiro", 
+        "maquina": "FINANCEIRO3" 
+    },
+    {   
+        "ramal": "109", 
+        "nome": "Engª Elizandra", 
+        "setor": "Engenharia", 
+        "maquina": "GSMISC011" 
+    },
+    {   
+        "ramal": "3053", 
+        "nome": "Eloi", 
+        "setor": "SST", 
+        "maquina": "SEG4" 
+    },
+    {   
+        "ramal": "3053", 
+        "nome": "Ester", 
+        "setor": "SST", 
+        "maquina": "SINASC022" 
+    },
+    {   
+        "ramal": "3007", 
+        "nome": "Evilyn", 
+        "setor": "Compras", 
+        "maquina": "COMPRAS4" 
+    },               
+    {   
+        "ramal": "3009", 
+        "nome": "Fernando", 
+        "setor": "Metalúrgica", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3078", 
+        "nome": "Flávia", 
+        "setor": "Obras", 
+        "maquina": "OBRAS4" 
+    },
+    {   
+        "ramal": "3066", 
+        "nome": "Franciele", 
+        "setor": "Recebimento/NF", 
+        "maquina": "GSMISC012" 
+    },
+    {   
+        "ramal": "3009", 
+        "nome": "Gabriel", 
+        "setor": "Metalúrgica", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3041", 
+        "nome": "Gabriel", 
+        "setor": "Recebimento/NF", 
+        "maquina": "SINASC013" 
+    },
+    {   
+        "ramal": "3046", 
+        "nome": "Gabriel", 
+        "setor": "Tecnologia da Informação", 
+        "maquina": "SINASC016" 
+    },
+    {   
+        "ramal": "3016", 
+        "nome": "Gabriela Medeiros", 
+        "setor": "Diagramação", 
+        "maquina": "FABPLACAS3" 
+    },
+    {   
+        "ramal": "3004", 
+        "nome": "Gabriele", 
+        "setor": "Marketing", 
+        "maquina": "PCP3" 
+    }, 
+    {   
+        "ramal": "3043", 
+        "nome": "Drª Gabriele", 
+        "setor": "Jurídico", 
+        "maquina": "" 
+    },         
+    {   
+        "ramal": "3070", 
+        "nome": "Giovani", 
+        "setor": "Logística", 
+        "maquina": "LOGISTICA1" 
+    },
+    {   
+        "ramal": "3067", 
+        "nome": "Graziele", 
+        "setor": "RH / Recisão", 
+        "maquina": "SINASC003" 
+    },
+    {   
+        "ramal": "3076", 
+        "nome": "Henrique", 
+        "setor": "Engenharia", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3011", 
+        "nome": "Isabella", 
+        "setor": "Contabilidade", 
+        "maquina": "CONTABILIDADE2" 
+    },
+    {   
+        "ramal": "3013", 
+        "nome": "Jair", 
+        "setor": "Contabilidade", 
+        "maquina": "NOTEJAIR" 
+    },            
+    {   
+        "ramal": "3070", 
+        "nome": "Jean", 
+        "setor": "Logística", 
+        "maquina": "LOGISTICA2" 
+    },
+    {   
+        "ramal": "3018", 
+        "nome": "Jerusa", 
+        "setor": "RH / Admissão", 
+        "maquina": "GSMISC013" 
+    },            
+    {   
+        "ramal": "3037", 
+        "nome": "Jessica", 
+        "setor": "Gestão de Pessoas", 
+        "maquina": "NOTEGP03" 
+    },
+    {   
+        "ramal": "3050", 
+        "nome": "Jessica", 
+        "setor": "Obras", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3088", 
+        "nome": "Jessica", 
+        "setor": "Financeiro", 
+        "maquina": "SINASC018" 
+    },
+    {   
+        "ramal": "3038", 
+        "nome": "Joana", 
+        "setor": "Contabilidade", 
+        "maquina": "CONTABILIDADE1" 
+    }, 
+    {   
+        "ramal": "3094", 
+        "nome": "Johnatan", 
+        "setor": "RH / Férias e Folha", 
+        "maquina": "RH6" 
+    }, 
+    {   
+        "ramal": "    ", 
+        "nome": "Jorge", 
+        "setor": "Compras", 
+        "maquina": "COMPRAS5" 
+    },
+    {   
+        "ramal": "3010", 
+        "nome": "Engº Jorge Barbeta", 
+        "setor": "Engenharia", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3099", 
+        "nome": "Josiane", 
+        "setor": "Controle", 
+        "maquina": "" 
+    }, 
+    {   
+        "ramal": "3028", 
+        "nome": "Josias", 
+        "setor": "Manutenção", 
+        "maquina": "SINASC012" 
+    },
+    {   
+        "ramal": "3004", 
+        "nome": "Júlia", 
+        "setor": "PCP", 
+        "maquina": "PCP4" 
+    },
+    {   
+        "ramal": "3053", 
+        "nome": "Juliana", 
+        "setor": "SST", 
+        "maquina": "GSMISC034" 
+    },
+    {   
+        "ramal": "3053", 
+        "nome": "Karina", 
+        "setor": "SST", 
+        "maquina": "NOTE001" 
+    },
+    {   
+        "ramal": "3053", 
+        "nome": "Karol", 
+        "setor": "SST", 
+        "maquina": "SEG1" 
+    },
+    {   
+        "ramal": "3004", 
+        "nome": "Keize", 
+        "setor": "Marketing", 
+        "maquina": "PCP1" 
+    },
+    {   
+        "ramal": "3021", 
+        "nome": "Leandro Fernandes", 
+        "setor": "Fábrica de Placas", 
+        "maquina": "NOTELEANDRO" 
+    },
+    {   
+        "ramal": "3029", 
+        "nome": "Lemonie", 
+        "setor": "Financeiro", 
+        "maquina": "FINANCEIRO4" 
+    },
+    {   
+        "ramal": "3012", 
+        "nome": "Leonardo", 
+        "setor": "Laboratório Tintas", 
+        "maquina": "LABTINTAS1" 
+    },
+    {   
+        "ramal": "3004", 
+        "nome": "Leslei", 
+        "setor": "PCP", 
+        "maquina": "PCP2" 
+    },
+    {   
+        "ramal": "3014", 
+        "nome": "Luciane", 
+        "setor": "Sec. Diretoria", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3090", 
+        "nome": "Luiz", 
+        "setor": "Manutenção", 
+        "maquina": "MANUTENCAO4" 
+    },
+    {   
+        "ramal": "3035", 
+        "nome": "Luiz Henrique", 
+        "setor": "Gerente Institucional", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3046", 
+        "nome": "Luiza", 
+        "setor": "Tecnologia da Informação", 
+        "maquina": "TI4" 
+    },
+    {   
+        "ramal": "3060", 
+        "nome": "Engª Lusania", 
+        "setor": "Financeiro", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3037", 
+        "nome": "Manu", 
+        "setor": "Gestão de Pessoas", 
+        "maquina": "NOTEGP02" 
+    },
+    {   
+        "ramal": "3092", 
+        "nome": "Manoel Barros", 
+        "setor": "Fábrica de Esfera", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3090", 
+        "nome": "Marco Aurelio", 
+        "setor": "Manutenção", 
+        "maquina": "MANUTENCAO2" 
+    },
+    {   
+        "ramal": "3071", 
+        "nome": "Marcos", 
+        "setor": "Tecnologia da Informação", 
+        "maquina": "GSMISC007" 
+    },
+    {   
+        "ramal": "3064", 
+        "nome": "Drª Mariana", 
+        "setor": "Jurídico", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3067", 
+        "nome": "Mariele", 
+        "setor": "RH / Recisão", 
+        "maquina": "SINASC020" 
+    },
+    {   
+        "ramal": "3074", 
+        "nome": "Marina", 
+        "setor": "Jurídico", 
+        "maquina": "" 
+    },  
+    {   
+        "ramal": "3079", 
+        "nome": "Mauro", 
+        "setor": "Almoxarifado Metalúrgica", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3048", 
+        "nome": "Mayara", 
+        "setor": "RH", 
+        "maquina": "SINASC003" 
+    },   
+    {   
+        "ramal": "3099", 
+        "nome": "Michele", 
+        "setor": "Controle", 
+        "maquina": "CONTROLE1" 
+    }, 
+    {   
+        "ramal": "3023", 
+        "nome": "Mirian", 
+        "setor": "Custos", 
+        "maquina": "CUSTOS2" 
+    },
+    {   
+        "ramal": "3061", 
+        "nome": "Drª Natacha", 
+        "setor": "Jurídico", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3031", 
+        "nome": "Paola", 
+        "setor": "Controle", 
+        "maquina": "GSMISC024" 
+    },
+    {   
+        "ramal": "3062", 
+        "nome": "Patricia", 
+        "setor": "Licitação", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3153", 
+        "nome": "Paula", 
+        "setor": "Contabilidade", 
+        "maquina": "GSMISC0019" 
+    }, 
+    {   
+        "ramal": "3002", 
+        "nome": "Drº Pedro", 
+        "setor": "Diretor", 
+        "maquina": "" 
+    },           
+    {   
+        "ramal": "3024", 
+        "nome": "Portaria (Vigilante)", 
+        "setor": "Portaria", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3058", 
+        "nome": "Raissa", 
+        "setor": "Recepção Externa", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3027", 
+        "nome": "Raiza", 
+        "setor": "Financeiro", 
+        "maquina": "FINANCEIRO2" 
+    },
+    {   
+        "ramal": "3071", 
+        "nome": "Ramon", 
+        "setor": "Tecnologia da Informação", 
+        "maquina": "TI2" 
+    },
+    {   
+        "ramal": "3012", 
+        "nome": "Ranieri", 
+        "setor": "Desenvolvimento Industrial", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3050", 
+        "nome": "Raquel", 
+        "setor": "Obras", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3051", 
+        "nome": "Raul", 
+        "setor": "Qualidade", 
+        "maquina": "QUALIDADE1" 
+    },
+    {   
+        "ramal": "3098", 
+        "nome": "Rene", 
+        "setor": "Diretor", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3077", 
+        "nome": "Ricardo", 
+        "setor": "Manutenção", 
+        "maquina": "MANUTENCAO5" 
+    },
+    {   
+        "ramal": "3017", 
+        "nome": "Roberta", 
+        "setor": "Coordenação RH", 
+        "maquina": "GSMISC004" 
+    },
+    {   
+        "ramal": "3003", 
+        "nome": "Rodrigo Moscardi", 
+        "setor": "Monitoramento Eletrônico", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3039", 
+        "nome": "Rodrigo Perdona", 
+        "setor": "Tecnologia da Informação", 
+        "maquina": "GSMISC009" 
+    },
+    {   
+        "ramal": "3054", 
+        "nome": "Rogério Atanazio", 
+        "setor": "Compras", 
+        "maquina": "GSMISC036" 
+    },
+    {   
+        "ramal": "3086", 
+        "nome": "Rosimeri", 
+        "setor": "Compras", 
+        "maquina": "SINASC002" 
+    },
+    {   
+        "ramal": "3073", 
+        "nome": "Sala de Reunião", 
+        "setor": "Sala de Reunião", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3040", 
+        "nome": "Samara", 
+        "setor": "Recebimento/NF", 
+        "maquina": "FISCAL2" 
+    },
+    {   
+        "ramal": "3112", 
+        "nome": "Drª Sasha", 
+        "setor": "Jurídico", 
+        "maquina": "" 
+    }, 
+    {   
+        "ramal": "3022", 
+        "nome": "Sharmean", 
+        "setor": "Compras", 
+        "maquina": "COMPRAS1" 
+    },
+    {   
+        "ramal": "3065", 
+        "nome": "Sônia", 
+        "setor": "Contabilidade", 
+        "maquina": "CONTABILIDADE3" 
+    },
+    {   
+        "ramal": "3082", 
+        "nome": "Stefani", 
+        "setor": "Fábrica de Tintas", 
+        "maquina": "SMISCFT01" 
+    },
+    {   
+        "ramal": "3063", 
+        "nome": "Engª Stefany", 
+        "setor": "Custos", 
+        "maquina": "CUSTOS1" 
+    },
+    {   
+        "ramal": "3082", 
+        "nome": "Steffany", 
+        "setor": "Fábrica de Tintas", 
+        "maquina": "FABTINTAS2" 
+    },
+    {   
+        "ramal": "3083", 
+        "nome": "Sthefany", 
+        "setor": "Obras", 
+        "maquina": "OBRAS5" 
+    },
+    {   
+        "ramal": "3066", 
+        "nome": "Taffiny", 
+        "setor": "Recebimento/NF", 
+        "maquina": "FISCAL4" 
+    },
+    {   
+        "ramal": "3091", 
+        "nome": "Teddy", 
+        "setor": "Tecnologia da Informação", 
+        "maquina": "GSMISC008" 
+    },
+    {   
+        "ramal": "3052", 
+        "nome": "Thiago", 
+        "setor": "Coordenação SST", 
+        "maquina": "SEG5" 
+    },
+    {   
+        "ramal": "3110", 
+        "nome": "Valeria", 
+        "setor": "Fiscal", 
+        "maquina": "SINASC001" 
+    },
+    {   
+        "ramal": "3051", 
+        "nome": "Vitor Aquilys", 
+        "setor": "Coordenador Qualidade", 
+        "maquina": "SINASC017" 
+    }, 
+    {   
+        "ramal": "3069", 
+        "nome": "Engª Viviane", 
+        "setor": "Engenharia", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3059", 
+        "nome": "Welington", 
+        "setor": "Almoxarifado SST", 
+        "maquina": "" 
+    },
+    {   
+        "ramal": "3026", 
+        "nome": "Willian", 
+        "setor": "Comercial", 
+        "maquina": "GSMISC020" 
+    },
+    {   
+        "ramal": "3059", 
+        "nome": "Willian", 
+        "setor": "Almoxarifado SST", 
+        "maquina": "SINASC019" 
+    }
+]
