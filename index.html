@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ramais SMI</title>
+    <link rel="icon" href="logoHead.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="content" class="container">
+        <div class="header">
+            <img src="logoBody.png" alt="Logo SMI" class="logo" id="logo-img">
+            <div class="header-text">
+                <h1>Lista de Ramais</h1>
+                <div class="search-container">
+                    <input type="text" id="search-input" placeholder="Pesquise aqui..." oninput="filtrarRamais()">
+                </div>
+            </div>           
+        </div>
+        <table id="lista-ramais">
+            <thead>
+                <tr>
+                    <th><div class="header-cell">Nome</div></th>
+                    <th><div class="header-cell">Ramal</div></th>
+                    <th><div class="header-cell">Setor</div></th>
+                    <th><div class="header-cell">Máquina</div></th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div id="paginacao" class="paginacao-container"></div>
+    </div>
+    <div id="ultima-atualizacao"></div>
+    <script src="scripts.js"></script>
+</body>
+</html>
