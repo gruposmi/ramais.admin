@@ -52,7 +52,7 @@ function filtrarRamais() {
         const ramalNumero = removerAcentos(ramal.ramal.toLowerCase());
         const setor = removerAcentos(ramal.setor.toLowerCase());
         const maquina = removerAcentos(ramal.maquina.toLowerCase());
-        return nome.includes(termo) || ramalNumero.includes(termo) || setor.includes(termo);
+        return nome.includes(termo) || ramalNumero.includes(termo) || setor.includes(termo) || maquina.includes(termo);
     });
     paginaAtual = 1; // Resetar para a primeira página após filtrar
     carregarRamais();
