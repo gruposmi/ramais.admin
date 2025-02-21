@@ -65,7 +65,7 @@ function removerAcentos(texto) {
 
 document.addEventListener("DOMContentLoaded", function () {
     // Carrega os ramais a partir do arquivo JSON
-    fetch("https://gruposmi.github.io/ramais.gruposmi/data.json")
+    fetch("https://gabriel-pagani.github.io/database/data.json")
       .then(response => response.json())
       .then(data => {
         // Substitui a listaRamais hard-coded pelos dados carregados do JSON
