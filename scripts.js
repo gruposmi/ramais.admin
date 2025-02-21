@@ -1,5 +1,7 @@
 const ramaisPorPagina = 13; // Número de ramais por página
 let paginaAtual = 1; // Página inicial
+let senhaAutenticada = false; // Variável para armazenar o estado de autenticação
+let maquinasVisiveis = false; // Variável para armazenar o estado de visibilidade das máquinas
 
 // Função para carregar os ramais da página atual
 function carregarRamais(lista = ramaisFiltrados) {
@@ -16,7 +18,7 @@ function carregarRamais(lista = ramaisFiltrados) {
             <td>${ramal.nome}</td>
             <td>${ramal.ramal}</td>
             <td>${ramal.setor}</td>
-            <td>${ramal.maquina}</td>
+            <td class="maquina" data-maquina="${ramal.maquina}">${maquinasVisiveis ? ramal.maquina : '*'.repeat(ramal.maquina.length)}</td>
         `;
         listaElement.appendChild(row);
     });
@@ -74,7 +76,15 @@ document.addEventListener("DOMContentLoaded", function () {
         carregarRamais();
       })
       .catch(error => console.error("Erro ao carregar os ramais:", error));
-  
+    
+    // Carrega a senha a partir do arquivo JSON
+    fetch("https://gruposmi.github.io/ramais.admin/password.json")
+      .then(response => response.json())
+      .then(data => {
+        senhaCorreta = data[0].senha;
+      })
+      .catch(error => console.error("Erro ao carregar a senha:", error));
+    
     // Outras inicializações, como definir a data da última atualização
     const dataUltimaAtualizacao = "21/02/2025";
     const ultimaAtualizacaoElement = document.getElementById("ultima-atualizacao");
@@ -84,4 +94,27 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById('logo-img').addEventListener('click', function() {
       location.reload();
     });
-  });
+
+    // Evento para o clique no ícone de olho que alterna a visibilidade das máquinas
+    document.querySelector('.fa-eye').addEventListener('click', function() {
+        if (!senhaAutenticada) {
+            const senha = prompt("Digite a senha para liberar o nome das máquinas:");
+            if (senha === senhaCorreta) {
+                senhaAutenticada = true;
+                maquinasVisiveis = true;
+            } else {
+                alert("Senha incorreta!");
+                return;
+            }
+        } else {
+            maquinasVisiveis = !maquinasVisiveis;
+        }
+        document.querySelectorAll('.maquina').forEach(element => {
+            if (maquinasVisiveis) {
+                element.textContent = element.getAttribute('data-maquina');
+            } else {
+                element.textContent = '*'.repeat(element.getAttribute('data-maquina').length);
+            }
+        });
+    });
+});
